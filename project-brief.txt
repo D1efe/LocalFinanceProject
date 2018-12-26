@@ -1,5 +1,5 @@
 Create a localised finance checking webapp
-makes use of AngularJS and Java with maven
+makes use of Angular and Java with maven
 
 notes:
 Create an application that tracks incoming and outgoing transactions
@@ -7,6 +7,18 @@ transactions are set manually by the user
 transactions can be dated
 transaction will be a class containing: description, date and amount
 Learn and make use of docker
+
+component / class names:
+Frontend:
+	Home Page
+	transaction log
+	add new transaction tracker?
+	navigation bar
+
+Backend:
+	User
+	Transaction
+	
 
 Not sure how to implement initial starting value (possibly as part of a user)
 or as a stand-a-lone attribute?
